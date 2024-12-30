@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "443845042528",
+    "project_id": "database-3d070",
+    "storage_bucket": "database-3d070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443845042528:android:c4c68e3e7e5dd9bd43be05",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoc3fwBJxMen4as1etZd6oiOy8HNXcAec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443845042528:android:2484444377dc4dff43be05",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoc3fwBJxMen4as1etZd6oiOy8HNXcAec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443845042528:android:0974b04b133d6da843be05",
+        "android_client_info": {
+          "package_name": "com.example.vansaquatic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoc3fwBJxMen4as1etZd6oiOy8HNXcAec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
